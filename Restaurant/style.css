@@ -1,0 +1,280 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#custom_nav_link {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.img1 {
+    width: 90px;
+    height: 90px;
+}
+
+.banner-section-bg {
+    background-image: url("https://img.freepik.com/free-photo/top-view-food-frame-arrangement_23-2149182253.jpg?t=st=1708864800~exp=1708868400~hmac=054732c373bc17462345cfee4c39ff1f1095452331353ba937300cd573799275&w=996");
+    height: 100vh;
+    background-size: cover;
+}
+
+.head {
+    color: white;
+    font-family: "Comic Sans MS";
+    font-size: 30px;
+    font-weight: normal;
+}
+
+.para {
+    color: white;
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.button1 {
+    color: white;
+    background-image: linear-gradient(#99F3EA, #0670B5);
+    font-family: "Roboto";
+    font-weight: normal;
+    border-width: 0px;
+    border-radius: 11px;
+    height: 50px;
+    width: 130px;
+    font-size: 20px;
+}
+
+.button2 {
+    color: #59D3EE;
+    background-color: transparent;
+    font-family: "Roboto";
+    font-weight: normal;
+    border-width: 3px;
+    border-radius: 11px;
+    border-color: #59D3EE;
+    border-style: solid;
+    height: 50px;
+    width: 130px;
+    font-size: 20px;
+}
+
+.wcu {
+    background-color: #E0EDF5;
+}
+
+.wcu-head {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.wcu-para {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.img2 {
+    height: 90px;
+    width: 110px;
+}
+
+.wcu-card {
+    background-color: white;
+    text-align: center;
+}
+
+.wcu-head1 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: normal;
+}
+
+.wcu-para1 {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.img3 {
+    height: 90px;
+    width: 165px;
+}
+
+.span {
+    color: lime;
+    font-family: "Roboto";
+    font-style: italic;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.ems {
+    background-color: #E0EDF5;
+}
+
+.ems-head {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.img4 {
+    border-radius: 20px;
+}
+
+.ems-head1 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.link1 {
+    color: #0670B5;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.radius {
+    border-radius: 16px;
+    padding: 18px;
+}
+
+.healthy {
+    background-color: white;
+}
+
+.imgheal {
+    width: 270px;
+}
+
+.healthysection {
+    font-family: "Roboto";
+    font-size: 30px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.healthypara {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #7b8794;
+    font-weight: normal;
+}
+
+.healthybutton {
+    color: white;
+    background-image: linear-gradient(#99F3EA, #0670B5);
+    font-family: "Roboto";
+    font-weight: normal;
+    border-width: 0px;
+    border-radius: 11px;
+    height: 50px;
+    width: 130px;
+    font-size: 20px;
+}
+
+.imgpd {
+    width: 70px;
+}
+
+.thanks {
+    background-image: radial-gradient(#F4EEF6, #DDB2F6);
+}
+
+.imghealt {
+    width: 200px;
+}
+
+.follow-us-section {
+    background-color: #0d2436;
+}
+
+.follow-us-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: white;
+    text-align: center;
+}
+
+.footer-section {
+    background-color: white;
+}
+
+.h1 {
+    color: #0d2436;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.p {
+    color: #0d2436;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: normal;
+    font-style: italic;
+}
+
+.icon-container {
+    height: 50px;
+    width: 50px;
+    background-color: #EAFFCD;
+    border-radius: 70px;
+    padding: 14px;
+}
+
+.icon-container1 {
+    height: 50px;
+    width: 50px;
+    background-color: #EAFFCD;
+    border-radius: 70px;
+    padding: 14px;
+}
+
+.icon-container2 {
+    height: 50px;
+    width: 50px;
+    background-color: #EAFFCD;
+    border-radius: 70px;
+    padding: 14px;
+}
+
+.icon-container3 {
+    height: 50px;
+    width: 50px;
+    background-color: #EAFFCD;
+    border-radius: 70px;
+    padding: 14px;
+}
+
+.icon1 {
+    font-size: 25px;
+}
+
+.icon2 {
+    color: #E4405F;
+    font-size: 25px;
+}
+
+.icon3 {
+    color: blue;
+    font-size: 25px;
+}
+
+.icon {
+    color: lime;
+    font-size: 25px;
+}
+
+.modal-title-1 {
+    color: #0670B5;
+    font-weight: 800;
+}
